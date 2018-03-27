@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg_gradient"
+    android:layout_height="match_parent"
+    tools:context="com.ag.apiaiapp.SplashActivity">
+
+    <TextView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="123dp"
+        android:text="SMA"
+        android:textColor="#fff"
+        android:textSize="70sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        android:text="Shopping Mall Assistant"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <Button
+        android:id="@+id/loginBut"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="19dp"
+        android:textColor="@color/colorPrimary"
+        android:background="@drawable/button1"
+        android:textSize="16sp"
+        android:layout_marginBottom="12dp"
+        android:text="Login" />
+
+    <Button
+        android:text="Register"
+        android:id="@+id/registerBut"
+        android:layout_marginTop="12dp"
+        android:padding="19dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/button_bordor"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</RelativeLayout>

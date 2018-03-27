@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APIAIAPP</string>
+    <string name="tap_on_mic">tap on mic</string>
+
+    <string-array name="genderArray">
+        <item>Enter your gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
+

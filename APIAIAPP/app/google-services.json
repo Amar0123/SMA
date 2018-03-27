@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "640545829283",
+    "firebase_url": "https://animal-guesser-9b690.firebaseio.com",
+    "project_id": "animal-guesser-9b690",
+    "storage_bucket": "animal-guesser-9b690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640545829283:android:a24c0a55ffb8c088",
+        "android_client_info": {
+          "package_name": "com.ag.apiaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640545829283-1b6v7gae7t6m9khgg3dj0l2301ea58ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ag.apiaiapp",
+            "certificate_hash": "8def8d29c8c67b71201cd814af9b85fc9e358c37"
+          }
+        },
+        {
+          "client_id": "640545829283-l7355aog5gl26e1tf4qrqq9rtnosqd9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS6XRfZ2YDR1ZDBxrhuCBkkkSj6R0GNqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640545829283-l7355aog5gl26e1tf4qrqq9rtnosqd9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
