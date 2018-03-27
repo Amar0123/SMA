@@ -3,14 +3,17 @@ Shopping Mall Assistant
 
 
 **SMA- The Shopping Mall Assistant**
+
 Introduction The name of the app is SMA -The Shopping Mall Assistant. The application is designed to assist shoppers in shopping malls with information like which shops to visit to purchase specific type of products. The app provides the following functions: Auto Login Feature Search for shops selling a product View Full information of a shop Interacting with the Bot
 
 **System Requirements**
+
 This app runs on Android 4.0.3 (IceCreamSandwich) and above. For the app to function properly, the following features must be available or activated: 
   Internet connection 
   Working microphone for speech to text feature
 
 **Getting Started** 
+
 Upon starting the application, the user will reach the Start page where he/she has the option to register or login. Ensure internet access is always available. 3.For first time users, click the ‘Register’ button to proceed to register page for account creation.
 Enter all 3 fields. Account will not be created if either one of the fields are not filled or the email address used already has been registered. The app automatically directs user to the Login Page when registered. The app will send a verification email to the specified email address. After clicking the link in the email, the user can login into the app. Upon successful login, an alert dialog will appearstating “Welcome Shopper”.
 
