@@ -1,5 +1,6 @@
 # SMA
 <<<<<<< HEAD
+<<<<<<< HEAD
 Shopping Mall Assistant
 
 
@@ -17,6 +18,8 @@ The user can reply with a product type like “shoes” or “SHOES” or “shoe” and the
 From this webpage, the user can also view the promotions occurring at the mall, which is Jurong Point. When the user presses the back button, he/she goes back to the Main page. The user can click the menu button at bottom right of the page. This will display a list consisting of recent searches and quick and easy functions like “Tell me a joke” or “Reset Bot” to clear the chat screen.
 
 =======
+=======
+>>>>>>> 862e0eecd2097486ad539a302fc1bf28172fcc42
 SMA- The Shopping Mall Assistant
 
 Introduction
@@ -50,4 +53,7 @@ The user will be directed to the Shops page where the bot displays a list of sho
 For  instance,  the  user  chooses‚ÄúCHARLES & KEITH‚Äù
 He/She  is  directed  to  a webpage  showing  the  full  details  of  CHARLES  &  KEITH  shop.  From  this webpage,  the  user  can  also  view  the  promotions  occurring  at  the  mall,  which  is Jurong Point.
 When  the  user  presses  the  back  button,  he/she  goes  back  to  the  Main  page.  The  user  can click the menu button at bottom right of the page. This will display a list consisting of recent searches and quick and easy functions like ‚ÄúTell me a joke‚Äù or ‚ÄúReset Bot‚Äù to clear the chat screen.
+<<<<<<< HEAD
+>>>>>>> 862e0eecd2097486ad539a302fc1bf28172fcc42
+=======
 >>>>>>> 862e0eecd2097486ad539a302fc1bf28172fcc42
